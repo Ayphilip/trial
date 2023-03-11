@@ -1,0 +1,6 @@
+#include <stdio.h>
+main()
+{
+ /* printf() function to write Hello, World! */
+ printf( "Hello, World!" );
+}
